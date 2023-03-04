@@ -48,6 +48,7 @@ public class MainActivity extends AppCompatActivity {
 
         WebSettings webSettings = webView.getSettings();
         webSettings.setJavaScriptEnabled(true);
+        webSettings.setJavaScriptCanOpenWindowsAutomatically(false);
         webSettings.setPluginState(WebSettings.PluginState.ON_DEMAND);
 
     }
