@@ -19,4 +19,3 @@ An elegant free anime online streaming app for all kind of Android devices.
 - With Android Studio installed, clone project and open in Android studio, 
 or
 - Download the built APK from [here](https://github.com/Rushil-Patel-11011/Zoro.to_app/raw/main/Apk/base.apk)
-- 
