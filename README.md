@@ -1,5 +1,6 @@
 # Zoro.to_app
-An elegant free anime online streaming app for all kind of Android devices.
+An elegant free anime online streaming app for all kinds of Android devices, with an attractive UI. The app offers different servers to choose from for streaming the same anime without getting ad interruptions.
+
 
 ## Features
 1. *Animated UI* : A beautiful and user interface with subtle animations.
@@ -17,5 +18,7 @@ An elegant free anime online streaming app for all kind of Android devices.
 
 ## Run the project
 - With Android Studio installed, clone project and open in Android studio, 
-or
+
+
+## Download the app
 - Download the built APK from [here](https://github.com/Rushil-Patel-11011/Zoro.to_app/raw/main/Apk/base.apk)
